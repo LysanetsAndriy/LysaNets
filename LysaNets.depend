@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1584209022 source:e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\main.c
+
+1681596121 source:e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\lysanets.cpp
+	"LysaNets.hpp"
+	"MatrixOperations.h"
+
+1681596169 e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\lysanets.hpp
+	"MatrixOperations.h"
+
+1681498565 e:\1 курс\ag_mining\projects\matrixoperations\matrixoperations.h
+	<cmath>
+	<fstream>
+
+1682004824 source:e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\neuralnetwork.cpp
+	<fstream>
+	<cmath>
+	"NeuralNetwork.hpp"
+	"LysaNets.hpp"
+
+1681560567 e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\neuralnetwork.hpp
+	<iostream>
+	"Sigmoid.hpp"
+	"MatrixOperations.h"
+
+1681564641 e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\sigmoid.hpp
+	"MatrixOperations.h"
+
+1681577496 source:e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\nnclassifier.cpp
+	<vector>
+	<iostream>
+	<iomanip>
+	"NNClassifier.hpp"
+	"NeuralNetwork.hpp"
+	"LysaNets.hpp"
+
+1681502356 e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\nnclassifier.hpp
+	<vector>
+	"NeuralNetwork.hpp"
+
+1681564632 source:e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\sigmoid.cpp
+	"Sigmoid.hpp"
+
+1682157572 source:d:\rlv\static_libraries\lysanets\lysanets.cpp
+	"LysaNets.hpp"
+	"D:\rlv\Static_libraries\MatrixOperations\MatrixOperations.h"
+
+1682157563 d:\rlv\static_libraries\lysanets\lysanets.hpp
+	"D:\rlv\Static_libraries\MatrixOperations/MatrixOperations.h"
+
+1682173407 source:d:\rlv\static_libraries\lysanets\nnclassifier.cpp
+	<vector>
+	<iostream>
+	<iomanip>
+	"NNClassifier.hpp"
+	"NeuralNetwork.hpp"
+	"LysaNets.hpp"
+
+1681502356 d:\rlv\static_libraries\lysanets\nnclassifier.hpp
+	<vector>
+	"NeuralNetwork.hpp"
+
+1682157559 d:\rlv\static_libraries\lysanets\neuralnetwork.hpp
+	<iostream>
+	"Sigmoid.hpp"
+	"D:\rlv\Static_libraries\MatrixOperations/MatrixOperations.h"
+
+1682157522 d:\rlv\static_libraries\lysanets\sigmoid.hpp
+	"D:\rlv\Static_libraries\MatrixOperations/MatrixOperations.h"
+
+1681564632 source:d:\rlv\static_libraries\lysanets\sigmoid.cpp
+	"Sigmoid.hpp"
+
+1682157530 d:\rlv\static_libraries\matrixoperations\matrixoperations.h
+	<cmath>
+	<fstream>
+
+1682174262 source:d:\rlv\static_libraries\lysanets\neuralnetwork.cpp
+	<fstream>
+	<cmath>
+	"NeuralNetwork.hpp"
+	"LysaNets.hpp"
+
