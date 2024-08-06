@@ -1,0 +1,1 @@
+C++ library which implement basic one hidden layer neural network. Also, different functions are implemented here. I used this library for my Neural Network from scratch implementation. This library used by other libraries(repositories): AData and MatrixOperationsCpp.
